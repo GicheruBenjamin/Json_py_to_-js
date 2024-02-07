@@ -1,0 +1,16 @@
+{
+  "manufacturer": "Toyota",
+  "model": "Camry",
+  "maintenanceRecords": [
+    {
+      "date": "2021-09-15",
+      "description": "Oil Change",
+      "cost": 50.0
+    },
+    {
+      "date": "2022-02-10",
+      "description": "Brake Inspection",
+      "cost": 60.0
+    }
+  ]
+}
